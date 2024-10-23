@@ -1,4 +1,4 @@
-# MouseMover
+# MouseMover - двигатель мышки
 
 Требуется .Net Framework 4.8 (предустановлен в последних версиях Windows).
 
